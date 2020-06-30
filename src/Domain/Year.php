@@ -10,7 +10,7 @@ class Year
     /**
      * @var int
      */
-    private $year;
+    private int $year;
 
     /**
      * Year constructor.
