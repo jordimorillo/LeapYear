@@ -7,6 +7,12 @@
             "email": "jmdesarrollo82@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/",
+            "Tests\\": "tests/"
+        }
+    },
     "require": {
         "phpunit/phpunit": "^9.2"
     }
