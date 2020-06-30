@@ -1,0 +1,11 @@
+{
+    "name": "root/leapyear",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jordi Morillo",
+            "email": "jmdesarrollo82@gmail.com"
+        }
+    ],
+    "require": {}
+}
