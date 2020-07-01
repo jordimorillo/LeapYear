@@ -13,6 +13,6 @@ class YearTest extends TestCase
     public function testThatICanInstantiateAYear(): void
     {
         $year = new Year(random_int(0, 9999));
-        $this->assertIsInt($year->getYear());
+        $this->assertIsInt($year->get());
     }
 }

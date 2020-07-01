@@ -23,7 +23,7 @@ class Year
     /**
      * @return int
      */
-    public function getYear(): int
+    public function get(): int
     {
         return $this->year;
     }
